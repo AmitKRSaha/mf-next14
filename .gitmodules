@@ -1,0 +1,3 @@
+[submodule "main-app"]
+	path = main-app
+	url = https://github.com/AmitKRSaha/mf-next14.git
